@@ -1,0 +1,65 @@
+{
+	"Ads": {
+		"AdMob": {
+			"activated":false,
+			"banner": "ca-app-pub-7522731665883717/5566592221",
+			"native": "ca-app-pub-7522731665883717/2940428884",
+			"interstitial": "ca-app-pub-7522731665883717/9641568606"
+		},
+		"FAN": {
+			"activated": false,
+			"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+		},
+		"ironSource": {
+			"activated": false,
+			"app_key": "11dae943d"
+		},
+		"Tapdaq": {
+			"activated": false,
+			"AppId": "619f526486c31c4e07c1134c",
+			"ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+		},
+		"Yandex": {
+			"activated": true,
+			"banner": "R-M-1600508-3",
+			"native": "R-M-1600508-2",
+			"interstitial": "R-M-1600508-1"
+		}
+	},
+	"Config": {
+		"app_version": "1.0",
+		"package_name": "com.joicl.tipscla",
+		"rattingIsEnabled": false
+	},
+	"Privacy": {
+		"isEnabled": true,
+		"title": "Privacy Policy",
+		"message": "Privacy Policy Message",
+		"url": "https://termly.io/privacy-policy/"
+	},
+
+	"GuideContent": [
+{
+"title": "Guide 1",
+"description": "This app is a guide to play Join Clash 3D, a complete guide to play the game.It is an interesting game with many fans, that is why we are inspired to create guides and tips for playing Join Clash 3D to make your job easier. The application contains a guide divided into several menus for you to learn and understand.complete New Join Clash 3D : Guide and Tips" 
+},
+		{
+"title": "Guide 2",
+"description": "This app is made by a fan, and it is unofficial. The content in this app is not affiliated with “Join Clash 3D”, endorsed, sponsored, or specifically approved by any company. All copyright and trademarks are owned by their respective owners. The images in this application are collected from around the web, if we are in breach of copyright, please let us know and it will be removed as soon as possible."
+		},
+		{
+"title": "Guide 3",
+"description": " Hello And Welcome to the best guide of Join Clash 3d Full Game, it will help you to know everything about Join Clash 3d Game you will find many tricks and walkthroughs. Moreover, in this guide, you will discover how to complete all fall guys ultimate knockout levels in the easiest way."
+		},
+		{
+"title": "Guide 4  ",
+"description": "Reveal hidden secret Join Clash 3d and many more to break down and level of stages and missions of Brawl Stars game play in order for you to use it become a pro player."
+		},
+		{
+"title": "Guide 5",
+"description": " Join Clash 3D, a complete guide to the game. It's an interesting game for many fans, that's why we were inspired by creating guides and tips for playing Join Clash 3D to make your work easier. The application contains a guide divided into several menus for learning and understanding."
+		}
+	]
+}
